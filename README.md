@@ -8,5 +8,17 @@ and let these 5 buttons look like a remote.
 
 I try to give it a look as the company asks.
 
+and this is how it looks :
+
 <img width="353" alt="image" src="https://github.com/shahad23abdullah/robot-controloer/assets/139658520/85e94f36-8d46-46a7-8cf7-faa45c7cf972">
+
+
+### action & second page:
+what action will happen when the user clicks on one button?  , it will open a new page have the same direction the user clicks in, and save this direction in the database...
+
+but if you want it to work you must use XAMPP, and let apache, MySQL start working, and write a localhost in the URL.
+
+## Database : 
+my database has two attributes, ID " Which is a primary, and It fills automatically ", and the direction which is filled from the web page we create.
+
 
