@@ -16,9 +16,14 @@ and this is how it looks :
 ### action & second page:
 what action will happen when the user clicks on one button?  , it will open a new page have the same direction the user clicks in, and save this direction in the database...
 
-but if you want it to work you must use XAMPP, and let apache, MySQL start working, and write a localhost in the URL.
+but if you want it to work you must use XAMPP, let Apache and, MySQL start working, and write a localhost in the URL.
 
 ## Database : 
-my database has two attributes, ID " Which is a primary, and It fills automatically ", and the direction which is filled from the web page we create.
+my database has two attributes, ID " Which is a primary, and It fills automatically ", and the direction which is loaded from the web page we create.
+
+## update :
+I add another button called "LastD", when you press it, it  prints the last direction in the database.. and the buttons be like this:
+
+<img width="263" alt="image" src="https://github.com/shahad23abdullah/robot-controloer/assets/139658520/89eb3a48-eaeb-4e34-b8fd-001c8becb600">
 
 
