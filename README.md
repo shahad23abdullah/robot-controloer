@@ -21,6 +21,7 @@ but if you want it to work you must use XAMPP, let Apache and, MySQL start worki
 ## Database : 
 my database has two attributes, ID " Which is a primary, and It fills automatically ", and the direction loaded from the web page we create.
 
+
 this is what my database looks like :
 <img width="252" alt="image" src="https://github.com/shahad23abdullah/robot-controloer/assets/139658520/56b98f98-baf9-4ce1-8bbd-768338f80d96">
 
