@@ -19,10 +19,14 @@ what action will happen when the user clicks on one button?  , it will open a ne
 but if you want it to work you must use XAMPP, let Apache and, MySQL start working, and write a localhost in the URL.
 
 ## Database : 
-my database has two attributes, ID " Which is a primary, and It fills automatically ", and the direction which is loaded from the web page we create.
+my database has two attributes, ID " Which is a primary, and It fills automatically ", and the direction loaded from the web page we create.
+
+this is what my database looks like :
+<img width="252" alt="image" src="https://github.com/shahad23abdullah/robot-controloer/assets/139658520/56b98f98-baf9-4ce1-8bbd-768338f80d96">
+
 
 ## update :
-I add another button called "LastD", when you press it, it  prints the last direction in the database.. and the buttons be like this:
+I added another button called "LastD" When you press it, it  prints the last direction in the database.. and the buttons be like this:
 
 <img width="263" alt="image" src="https://github.com/shahad23abdullah/robot-controloer/assets/139658520/89eb3a48-eaeb-4e34-b8fd-001c8becb600">
 
